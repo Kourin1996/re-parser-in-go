@@ -3,8 +3,8 @@ package compiler
 import (
 	"fmt"
 
-	"github.com/Kourin1996/regex-parser/operator"
-	"github.com/Kourin1996/regex-parser/re"
+	"github.com/Kourin1996/re-parser-in-go/operator"
+	"github.com/Kourin1996/re-parser-in-go/re"
 )
 
 func Compile(re re.RegularExpression) operator.Program {

@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/Kourin1996/regex-parser/compiler"
-	"github.com/Kourin1996/regex-parser/re"
-	"github.com/Kourin1996/regex-parser/vm"
+	"github.com/Kourin1996/re-parser-in-go/compiler"
+	"github.com/Kourin1996/re-parser-in-go/re"
+	"github.com/Kourin1996/re-parser-in-go/vm"
 )
 
 func main() {

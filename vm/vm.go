@@ -3,7 +3,7 @@ package vm
 import (
 	"fmt"
 
-	"github.com/Kourin1996/regex-parser/operator"
+	"github.com/Kourin1996/re-parser-in-go/operator"
 )
 
 type VM struct {
